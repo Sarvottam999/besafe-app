@@ -1,4 +1,4 @@
-package com.example.besafe
+package com.besafe.arcade
 
 import io.flutter.embedding.android.FlutterActivity
 
